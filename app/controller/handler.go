@@ -1,7 +1,7 @@
 package controller
 
 import (
-	"github.com/hairunisa29/pengenalan-mvc/app/model"
+	"github.com/hairunisa29/pengenalan-mvc/tree/master/app/model"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )
